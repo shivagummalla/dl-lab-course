@@ -1,0 +1,26 @@
+[
+  {
+    "Activation": "Sigmoid",
+    "Learning Rate": 0.01,
+    "Final Loss": 0.7177,
+    "Final Accuracy": 0.5
+  },
+  {
+    "Activation": "Sigmoid",
+    "Learning Rate": 0.1,
+    "Final Loss": 0.6934,
+    "Final Accuracy": 0.5
+  },
+  {
+    "Activation": "ReLU",
+    "Learning Rate": 0.01,
+    "Final Loss": 0.641,
+    "Final Accuracy": 0.75
+  },
+  {
+    "Activation": "ReLU",
+    "Learning Rate": 0.1,
+    "Final Loss": 0.4073,
+    "Final Accuracy": 1.0
+  }
+]

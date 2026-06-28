@@ -1,0 +1,5 @@
+Exp# Activation  LR      Final Loss    Final Acc 
+1    Sigmoid     0.01    0.7177        0.5       
+2    Sigmoid     0.1     0.6934        0.5       
+3    ReLU        0.01    0.641         0.75      
+4    ReLU        0.1     0.4073        1.0       
