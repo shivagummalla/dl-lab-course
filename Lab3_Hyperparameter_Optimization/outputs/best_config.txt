@@ -1,0 +1,10 @@
+Best configuration:
+Trial                       1
+Learning Rate            0.01
+Hidden Units                8
+Batch Size                 16
+Dropout                   0.0
+Training Loss          0.1491
+Validation Accuracy      0.95
+Overfitting?               No
+Name: 0, dtype: object

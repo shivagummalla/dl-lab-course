@@ -1,0 +1,52 @@
+[
+  {
+    "Trial": 1,
+    "Learning Rate": 0.01,
+    "Hidden Units": 8,
+    "Batch Size": 16,
+    "Dropout": 0.0,
+    "Training Loss": 0.1491,
+    "Validation Accuracy": 0.95,
+    "Overfitting?": "No"
+  },
+  {
+    "Trial": 2,
+    "Learning Rate": 0.01,
+    "Hidden Units": 32,
+    "Batch Size": 16,
+    "Dropout": 0.5,
+    "Training Loss": 0.1954,
+    "Validation Accuracy": 0.9467,
+    "Overfitting?": "No"
+  },
+  {
+    "Trial": 3,
+    "Learning Rate": 0.1,
+    "Hidden Units": 16,
+    "Batch Size": 64,
+    "Dropout": 0.2,
+    "Training Loss": 0.202,
+    "Validation Accuracy": 0.9433,
+    "Overfitting?": "No"
+  },
+  {
+    "Trial": 4,
+    "Learning Rate": 0.001,
+    "Hidden Units": 64,
+    "Batch Size": 256,
+    "Dropout": 0.0,
+    "Training Loss": 0.2266,
+    "Validation Accuracy": 0.9133,
+    "Overfitting?": "No"
+  },
+  {
+    "Trial": 5,
+    "Learning Rate": 0.01,
+    "Hidden Units": 32,
+    "Batch Size": 32,
+    "Dropout": 0.3,
+    "Training Loss": 0.1581,
+    "Validation Accuracy": 0.94,
+    "Overfitting?": "No"
+  }
+]
